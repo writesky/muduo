@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/yankaixin/Desktop/muduo/cmake-build-debug"/>
+				<Option working_dir="/Users/yankaixin/muduo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/yankaixin/Desktop/muduo/cmake-build-debug"/>
+				<Option working_dir="/Users/yankaixin/muduo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/yankaixin/Desktop/muduo/cmake-build-debug"/>
+				<Option working_dir="/Users/yankaixin/muduo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="muduo">
-				<Option output="/Users/yankaixin/Desktop/muduo/cmake-build-debug/muduo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yankaixin/Desktop/muduo/cmake-build-debug"/>
+				<Option output="/Users/yankaixin/muduo/cmake-build-debug/muduo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yankaixin/muduo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 muduo"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 muduo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="muduo/fast">
-				<Option output="/Users/yankaixin/Desktop/muduo/cmake-build-debug/muduo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yankaixin/Desktop/muduo/cmake-build-debug"/>
+				<Option output="/Users/yankaixin/muduo/cmake-build-debug/muduo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yankaixin/muduo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,98 +73,98 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 muduo/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/Desktop/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 muduo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yankaixin/muduo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Acceptor.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Acceptor.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Buffer.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Buffer.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Channel.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Channel.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/CurrentThread.h">
+		<Unit filename="/Users/yankaixin/muduo/include/CurrentThread.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/EventLoop.h">
+		<Unit filename="/Users/yankaixin/muduo/include/EventLoop.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/EventLoopThread.h">
+		<Unit filename="/Users/yankaixin/muduo/include/EventLoopThread.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/EventLoopThreadPool.h">
+		<Unit filename="/Users/yankaixin/muduo/include/EventLoopThreadPool.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/InetAddress.h">
+		<Unit filename="/Users/yankaixin/muduo/include/InetAddress.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Logger.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Logger.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/NonCopyable.h">
+		<Unit filename="/Users/yankaixin/muduo/include/NonCopyable.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Poller.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Poller.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Socket.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Socket.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/Thread.h">
+		<Unit filename="/Users/yankaixin/muduo/include/Thread.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/include/TimeStamp.h">
+		<Unit filename="/Users/yankaixin/muduo/include/TimeStamp.h">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/main.cpp">
+		<Unit filename="/Users/yankaixin/muduo/main.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Acceptor.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Acceptor.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Buffer.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Buffer.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Channel.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Channel.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/CurrentThread.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/CurrentThread.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/EventLoop.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/EventLoop.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/EventLoopThread.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/EventLoopThread.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/EventLoopThreadPool.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/EventLoopThreadPool.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/InetAddress.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/InetAddress.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Logger.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Logger.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Poller.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Poller.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Socket.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Socket.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/Thread.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/Thread.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/src/TimeStamp.cpp">
+		<Unit filename="/Users/yankaixin/muduo/src/TimeStamp.cpp">
 			<Option target="muduo"/>
 		</Unit>
-		<Unit filename="/Users/yankaixin/Desktop/muduo/CMakeLists.txt">
+		<Unit filename="/Users/yankaixin/muduo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,5 +1,5 @@
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoopThread.h"
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoop.h"
+#include "../include/EventLoopThread.h"
+#include "../include/EventLoop.h"
 #include <memory>
 
 EventLoopThread::EventLoopThread(const ThreadInitCallback &cb, const string &name)

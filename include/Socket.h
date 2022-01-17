@@ -1,6 +1,6 @@
 #pragma once
-#include "/Users/yankaixin/Desktop/muduo/include/InetAddress.h"
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
+#include "InetAddress.h"
+#include "NonCopyable.h"
 class InetAddress;
 
 class Socket:NonCopyable{

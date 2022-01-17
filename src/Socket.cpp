@@ -3,9 +3,9 @@
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <netinet/tcp.h>
-#include "/Users/yankaixin/Desktop/muduo/include/Socket.h"
-#include "/Users/yankaixin/Desktop/muduo/include/InetAddress.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Logger.h"
+#include "../include/Socket.h"
+#include "../include/InetAddress.h"
+#include "../include/Logger.h"
 
 Socket::~Socket() {
     close(sockfd_);

@@ -5,7 +5,7 @@
 #include <memory>
 #include <unistd.h>
 #include <atomic>
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
+#include "NonCopyable.h"
 
 using namespace std;
 

@@ -1,5 +1,5 @@
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoopThreadPool.h"
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoopThread.h"
+#include "../include/EventLoopThreadPool.h"
+#include "../include/EventLoopThread.h"
 
 EventLoopThreadPool::EventLoopThreadPool(EventLoop *baseloop, const string &name)
     :baseloop_(baseloop),name_(name),started_(false),thread_nums_(0),next_(0){

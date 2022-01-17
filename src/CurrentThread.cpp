@@ -1,4 +1,4 @@
-#include "/Users/yankaixin/Desktop/muduo/include/CurrentThread.h"
+#include "../include/CurrentThread.h"
 
 namespace Current_thread{
     __thread int t_cachedTid=0;

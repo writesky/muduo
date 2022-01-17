@@ -1,6 +1,6 @@
 #include <strings.h>
 #include <cstring>
-#include "/Users/yankaixin/Desktop/muduo/include/InetAddress.h"
+#include "../include/InetAddress.h"
 
 #define BUFFER_SIZE 64
 

@@ -1,9 +1,9 @@
 #pragma once
 
 #include <functional>
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Socket.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Channel.h"
+#include "NonCopyable.h"
+#include "Socket.h"
+#include "Channel.h"
 
 class EventLoop;
 class InetAddress;

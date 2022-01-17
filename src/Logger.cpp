@@ -1,6 +1,6 @@
 #include <iostream>
-#include "/Users/yankaixin/Desktop/muduo/include/Logger.h"
-#include "/Users/yankaixin/Desktop/muduo/include/TimeStamp.h"
+#include "../include/Logger.h"
+#include "../include/TimeStamp.h"
 
 //获取唯一实例对象
 Logger &Logger::instance() {

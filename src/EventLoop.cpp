@@ -1,8 +1,8 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/eventfd.h>
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoop.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Logger.h"
+#include "../include/EventLoop.h"
+#include "../include/Logger.h"
 
 //防止一个线程创建多个eventloop
 __thread EventLoop *t_loop_in_thisThread= nullptr;

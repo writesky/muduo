@@ -4,7 +4,7 @@
 #include <vector>
 #include <memory>
 #include <functional>
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
+#include "NonCopyable.h"
 
 class EventLoop;
 class EventLoopThread;

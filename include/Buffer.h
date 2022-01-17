@@ -3,7 +3,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
+#include "NonCopyable.h"
 
 using namespace std;
 

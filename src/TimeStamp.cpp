@@ -1,5 +1,5 @@
 #include <ctime>
-#include "/Users/yankaixin/Desktop/muduo/include/TimeStamp.h"
+#include "../include/TimeStamp.h"
 
 #define BUFFER_SIZE 128
 

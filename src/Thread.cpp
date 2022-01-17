@@ -1,6 +1,6 @@
 #include <semaphore.h>   //并发编程，信号量
-#include "/Users/yankaixin/Desktop/muduo/include/Thread.h"
-#include "/Users/yankaixin/Desktop/muduo/include/CurrentThread.h"
+#include "../include/Thread.h"
+#include "../include/CurrentThread.h"
 
 #define BUFFER_SIZE 32
 

@@ -2,9 +2,9 @@
 
 #include <functional>
 #include <memory>
-#include "/Users/yankaixin/Desktop/muduo/include/Channel.h"
-#include "/Users/yankaixin/Desktop/muduo/include/EventLoop.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Logger.h"
+#include "../include/Channel.h"
+#include "../include/EventLoop.h"
+#include "../include/Logger.h"
 
 const int Channel::k_none_event_=0;
 const int Channel::k_read_event_=EPOLLIN|EPOLLPRI;

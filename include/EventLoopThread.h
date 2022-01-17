@@ -4,8 +4,8 @@
 #include <string>
 #include <mutex>
 #include <condition_variable>
-#include "/Users/yankaixin/Desktop/muduo/include/NonCopyable.h"
-#include "/Users/yankaixin/Desktop/muduo/include/Thread.h"
+#include "NonCopyable.h"
+#include "Thread.h"
 
 class EventLoop;
 
